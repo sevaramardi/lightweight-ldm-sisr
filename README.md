@@ -1,1 +1,1 @@
-# lightweight-ldm-sisr
+# Lightweight LDM model for Single Image Super-resolution
